@@ -1,7 +1,0 @@
-C:\Users\Deepak\Desktop\Basic_C#_Programs\LoopsandStuff\LoopsandStuff\bin\Debug\LoopsandStuff.exe.config
-C:\Users\Deepak\Desktop\Basic_C#_Programs\LoopsandStuff\LoopsandStuff\bin\Debug\LoopsandStuff.exe
-C:\Users\Deepak\Desktop\Basic_C#_Programs\LoopsandStuff\LoopsandStuff\bin\Debug\LoopsandStuff.pdb
-C:\Users\Deepak\Desktop\Basic_C#_Programs\LoopsandStuff\LoopsandStuff\obj\Debug\LoopsandStuff.csprojAssemblyReference.cache
-C:\Users\Deepak\Desktop\Basic_C#_Programs\LoopsandStuff\LoopsandStuff\obj\Debug\LoopsandStuff.csproj.CoreCompileInputs.cache
-C:\Users\Deepak\Desktop\Basic_C#_Programs\LoopsandStuff\LoopsandStuff\obj\Debug\LoopsandStuff.exe
-C:\Users\Deepak\Desktop\Basic_C#_Programs\LoopsandStuff\LoopsandStuff\obj\Debug\LoopsandStuff.pdb
