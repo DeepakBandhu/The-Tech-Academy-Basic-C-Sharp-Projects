@@ -1,7 +1,0 @@
-C:\Users\Deepak\Desktop\Basic_C#_Programs\MainMethod\MainMethod\bin\Debug\MainMethod.exe.config
-C:\Users\Deepak\Desktop\Basic_C#_Programs\MainMethod\MainMethod\bin\Debug\MainMethod.exe
-C:\Users\Deepak\Desktop\Basic_C#_Programs\MainMethod\MainMethod\bin\Debug\MainMethod.pdb
-C:\Users\Deepak\Desktop\Basic_C#_Programs\MainMethod\MainMethod\obj\Debug\MainMethod.csprojAssemblyReference.cache
-C:\Users\Deepak\Desktop\Basic_C#_Programs\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
-C:\Users\Deepak\Desktop\Basic_C#_Programs\MainMethod\MainMethod\obj\Debug\MainMethod.exe
-C:\Users\Deepak\Desktop\Basic_C#_Programs\MainMethod\MainMethod\obj\Debug\MainMethod.pdb
