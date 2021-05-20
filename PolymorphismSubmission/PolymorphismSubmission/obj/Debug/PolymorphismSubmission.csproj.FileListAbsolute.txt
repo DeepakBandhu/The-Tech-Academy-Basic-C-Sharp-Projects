@@ -1,7 +1,0 @@
-C:\Users\Deepak\Desktop\Basic_C#_Programs\PolymorphismSubmission\PolymorphismSubmission\bin\Debug\PolymorphismSubmission.exe.config
-C:\Users\Deepak\Desktop\Basic_C#_Programs\PolymorphismSubmission\PolymorphismSubmission\bin\Debug\PolymorphismSubmission.exe
-C:\Users\Deepak\Desktop\Basic_C#_Programs\PolymorphismSubmission\PolymorphismSubmission\bin\Debug\PolymorphismSubmission.pdb
-C:\Users\Deepak\Desktop\Basic_C#_Programs\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.csprojAssemblyReference.cache
-C:\Users\Deepak\Desktop\Basic_C#_Programs\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.csproj.CoreCompileInputs.cache
-C:\Users\Deepak\Desktop\Basic_C#_Programs\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.exe
-C:\Users\Deepak\Desktop\Basic_C#_Programs\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.pdb
