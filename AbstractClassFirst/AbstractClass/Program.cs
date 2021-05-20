@@ -11,8 +11,8 @@ namespace AbstractClass
         static void Main(string[] args)
         {
             Employee Worker = new Employee();//instantiated Employee
-            Worker.firstName = "Deepak";
-            Worker.lastName = "Bandhu";
+            Worker.firstName = "Sample";
+            Worker.lastName = "Student";
             Worker.SayName();// this is called from Employee
             Console.ReadLine();
         }
