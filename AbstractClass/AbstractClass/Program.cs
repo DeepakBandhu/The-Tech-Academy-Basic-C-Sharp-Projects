@@ -15,9 +15,9 @@ namespace AbstractClass
             //Person person = new Employee();
             employee.ID = "Deepak";
 
-             bool stuff = employee.ID == employee.ID;
+            employee.ID == employee.ID;
 
-            Console.WriteLine(stuff);
+            Console.WriteLine();
 
             Console.ReadLine();
 
