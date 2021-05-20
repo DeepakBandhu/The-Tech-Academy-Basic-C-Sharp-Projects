@@ -16,7 +16,7 @@ namespace PolymorphismSubmission
             employee.firstName = "Deepak";
             employee.lastName = "Bandhu";
             
-            employee.Quit(person);// this is the interface runnning, in order for the program to fully complete it will need to be commented out, however it hits successfully
+            employee.Quit(person);
 
             Console.WriteLine(employee.firstName + " " + employee.lastName);
             Console.ReadLine();
