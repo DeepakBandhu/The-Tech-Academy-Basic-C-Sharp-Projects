@@ -10,6 +10,13 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
+            //Employee employee = new Employee();
+            //employee.ID = "Joe";
+            //employee.ID = "Frazier";  // scrapped this idea
+            //employee ==
+
+            
+
             Employee Worker = new Employee();//instantiated Employee
             Worker.firstName = "Deepak";
             Worker.lastName = "Bandhu";

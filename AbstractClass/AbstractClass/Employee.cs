@@ -8,6 +8,7 @@ namespace AbstractClass
 {
     public class Employee : Person
     {
+        public string ID { get; set; }
         public override void SayName()// this is usiung the abstract class
         {
             Console.WriteLine("Name:");

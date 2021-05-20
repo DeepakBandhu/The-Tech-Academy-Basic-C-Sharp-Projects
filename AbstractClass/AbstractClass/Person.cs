@@ -16,5 +16,16 @@ namespace AbstractClass
             Console.WriteLine(firstName + " " + lastName);
         }
 
+        public static Employee operator==(Employee employee, Person person)
+        {
+            employee.ID.Equals(person);
+            return employee;
+        }                   // these are the overloaded operators, they needed both to not be an error (==, !=)
+        public static Employee operator!=(Employee employee, Person person)
+        {
+            employee.ID.Equals(person);
+            return employee;
+        }
+
     }
 }
