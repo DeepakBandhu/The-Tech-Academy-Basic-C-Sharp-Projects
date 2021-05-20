@@ -15,7 +15,7 @@ namespace PolymorphismSubmission
         }
         public void Quit(Person person)
         {
-            throw new NotImplementedException();//this alleviates any errors without it having to be finished
+            Console.WriteLine("I Quit.");
         }
     }
 }
