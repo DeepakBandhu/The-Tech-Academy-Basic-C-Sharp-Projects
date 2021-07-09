@@ -12,4 +12,4 @@ This project creates a student with two class subjects, but whats different is t
 Here, the user is able to play a game of Blackjack and can either keep going if they are feeling lucky, or call it when their well has run dry. The app is made with a multitude of classes and has systems put into place in the event that a players either tries to cheat or just entered the wrong information.
 
 <hr>
-All this and more are located in this repository, my journey through C# is on display and I urge you to take a look.
+All this and more is located in this repository, my journey through C# is on display and I urge you to take a look.
